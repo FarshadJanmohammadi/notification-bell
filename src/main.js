@@ -1,4 +1,4 @@
-import "./style.css";
+
 const bellBtn = document.getElementById("bellBtn");
 const dropdown = document.getElementById("dropdown");
 const badge = document.getElementById("badge");
